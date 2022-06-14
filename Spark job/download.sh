@@ -1,4 +1,4 @@
-aws s3 cp s3://nyc-tlc/csv_backup/yellow_tripdata_2020-01.csv ./data/ --no-sign-request
+aws s3 cp s3://nyc-tlc/csv_backup/yellow_tripdata_2020-04.csv ./data/ --no-sign-request
 
 mkdir ~/.mysql && \                                                                                                        [2]
 wget "https://storage.yandexcloud.net/cloud-certs/CA.pem" -O ~/.mysql/root.crt && \
