@@ -13,7 +13,6 @@ hadoop jar "$HADOOP_MAPRED_HOME"/hadoop-streaming.jar \
 
 
 
-
 # -Dmapred.reduce.tasks=1 \
 #-Dmapreduce.input.lineinputformat.linespermap=1000 \
 #-inputformat org.apache.hadoop.mapred.lib.NLineInputFormat \

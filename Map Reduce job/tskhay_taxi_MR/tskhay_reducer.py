@@ -3,63 +3,58 @@
 
 import sys
 
-def type_expander(type_char):
-    if type_char == '':
-        return 'Undefined'
-    elif type_char == '1':
-        return 'Credit card'
-    elif type_char == '2':
-        return 'Cash'
-    elif type_char == '3':
-        return 'No charge'
-    elif type_char == '4':
-        return 'Dispute'
-    elif type_char == '5':
-        return 'Unknown'
-    elif type_char == '6':
-        return 'Voided trip'
-    else:
-        return 'Other'
-
+trip_types_dict = {
+    '': 'Undefined',
+    '1': 'Credit card',
+    '2': 'Cash',
+    '3': 'No charge',
+    '4': 'Dispute',
+    '5': 'Unknown',
+    '6': 'Voided trip'
+}
 
 def perform_reduce():
-    current_date_type = None
+    current_key = None
     tips_sum = 0
     trip_count = 0
     print('Payment Type,Month,Tips average amount')
+
     for line in sys.stdin:
         line = line.strip()
-        date_type, trip_tips = line.split('\t')
+        key, trip_tips = line.split('\t')
 
         try:
             trip_tips = float(trip_tips)
         except ValueError:
             continue
 
-        if date_type == current_date_type:
+        if key == current_key:
             tips_sum += trip_tips
             trip_count += 1
         else:
-            if current_date_type:
+            if current_key:
                 try:
                     tips_avg = round((tips_sum / trip_count),2)
                 except:
                     tips_avg = 'Undefined'
 
-                type_char = current_date_type[7:]
-                type_text = type_expander(type_char)
+                trip_type_code = current_key[7:]
+                trip_type_text = trip_types_dict[trip_type_code]
+                trip_date = current_key[:7]
+                print('%s,%s,%s' % (trip_type_text, trip_date[:7], tips_avg))
 
-                print('%s,%s,%s' % (type_text, current_date_type[:7], tips_avg))
-            current_date_type = date_type
+            current_key = key
             tips_sum = trip_tips
             trip_count = 1
     try:
         tips_avg = round((tips_sum / trip_count),2)
     except:
         tips_avg = 'Undefined'
-    type_char = current_date_type[7:]
-    type_text = type_expander(type_char)
-    print('%s,%s,%s' % (type_text, current_date_type[:7], tips_avg))
+
+    trip_type_code = current_key[7:]
+    trip_type_text = trip_types_dict[trip_type_code]
+    trip_date = current_key[:7]
+    print('%s,%s,%s' % (trip_type_text, trip_date[:7], tips_avg))
 
 
 if __name__ == '__main__':
