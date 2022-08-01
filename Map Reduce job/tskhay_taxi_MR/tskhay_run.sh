@@ -11,8 +11,6 @@ hadoop jar "$HADOOP_MAPRED_HOME"/hadoop-streaming.jar \
 -input /user/root/2020 -output $MR_OUTPUT
 
 
-
-
 # -Dmapred.reduce.tasks=1 \
 #-Dmapreduce.input.lineinputformat.linespermap=1000 \
 #-inputformat org.apache.hadoop.mapred.lib.NLineInputFormat \
