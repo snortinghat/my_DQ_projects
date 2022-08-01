@@ -88,6 +88,69 @@ location '/user/root/2020'
 TBLPROPERTIES ("skip.header.line.count"="1");
 
 
+
+
+
+
+
+
+---test
+create external table test_string
+(
+vendor_id string,
+tpep_pickup_datetime string,
+tpep_dropoff_datetime timestamp,
+passenger_count int,
+trip_distance double,
+rate_id int,
+store_and_fwd_flag string,
+pulocation_id int,
+dolocation_id int,
+payment_id int,
+fare_amount double,
+extra double,
+mta_tax double,
+tip_amount double,
+tolls_amount double,
+improvement_surcharge double,
+total_amount double,
+congestion_surcharge double
+)
+stored as parquet;
+
+INSERT OVERWRITE TABLE test_string
+SELECT
+        vendor_id,
+        to_date(tpep_pickup_datetime) as dt,
+        tpep_dropoff_datetime,
+        passenger_count,
+        trip_distance,
+        rate_id,
+        store_and_fwd_flag,
+        pulocation_id,
+        dolocation_id,
+        payment_id,
+        fare_amount,
+        extra,
+        mta_tax,
+        tip_amount,
+        tolls_amount,
+        improvement_surcharge,
+        total_amount,
+        congestion_surcharge
+FROM   taxi_data;
+
+
+
+
+
+
+
+
+
+
+
+
 ---New empty partitioned table
 create external table taxi_data_part
 (

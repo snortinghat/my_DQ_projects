@@ -134,7 +134,7 @@ def main(spark: SparkSession):
 
     joined_datamart.show(truncate=False, n=10)
 
-    #joined_datamart.repartition(1).write.mode('overwrite').csv('output')
+    joined_datamart.repartition(1).write.mode('overwrite').csv('output')
 
 
 
