@@ -1,0 +1,765 @@
+2020-04-09,2,2,6,18.54,0.0,Group ride,VeriFone Inc,Cash
+2020-04-28,1,4,6,3.3,0.0,Group ride,"Creative Mobile Technologies, LLC",Dispute
+2020-04-01,1,1,5,580.3000000000001,4.4772727272727275,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-02,1,1,5,941.7599999999998,0.646,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-03,1,1,5,558.05,5.345000000000001,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-04,1,1,5,152.2,2.25,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-05,1,1,5,414.3500000000001,1.1115384615384616,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-06,1,1,5,136.54999999999998,3.05,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-07,1,1,5,331.50000000000006,4.178571428571429,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-08,1,1,5,84.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-09,1,1,5,239.8,1.1444444444444446,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-10,1,1,5,224.35000000000002,2.5,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-11,1,1,5,221.99999999999997,4.325,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-12,1,1,5,202.95,0.7625,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-13,1,1,5,69.4,2.8000000000000003,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-14,1,1,5,150.61,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-15,1,1,5,314.80000000000007,1.4769230769230772,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-16,1,1,5,245.11,0.87625,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-17,1,1,5,604.3999999999999,5.091666666666666,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-18,1,1,5,51.75,1.1375,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-19,1,1,5,76.86,2.332,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-20,1,1,5,253.54000000000002,1.511,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-21,1,1,5,280.3,1.89375,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-22,1,1,5,112.8,2.46,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-23,1,1,5,48.599999999999994,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-24,1,1,5,208.3,1.2916666666666667,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-25,1,1,5,233.32,1.01,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-26,1,1,5,236.15,5.18,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-27,1,1,5,205.81,1.5122222222222224,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-28,1,1,5,268.57,3.875,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-29,1,1,5,100.25,5.3875,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-30,1,1,5,331.77000000000004,6.333333333333333,Negotiated fare,"Creative Mobile Technologies, LLC",Credit card
+2020-04-01,2,1,5,551.39,3.0744999999999996,Negotiated fare,VeriFone Inc,Credit card
+2020-04-02,2,1,5,751.78,1.2175,Negotiated fare,VeriFone Inc,Credit card
+2020-04-03,2,1,5,787.73,5.5822222222222235,Negotiated fare,VeriFone Inc,Credit card
+2020-04-04,2,1,5,1175.2999999999997,4.882380952380952,Negotiated fare,VeriFone Inc,Credit card
+2020-04-05,2,1,5,964.79,3.1900000000000004,Negotiated fare,VeriFone Inc,Credit card
+2020-04-06,2,1,5,865.2299999999999,8.642,Negotiated fare,VeriFone Inc,Credit card
+2020-04-07,2,1,5,623.82,2.8400000000000003,Negotiated fare,VeriFone Inc,Credit card
+2020-04-08,2,1,5,392.68000000000006,2.5557142857142856,Negotiated fare,VeriFone Inc,Credit card
+2020-04-09,2,1,5,527.3,6.923076923076923,Negotiated fare,VeriFone Inc,Credit card
+2020-04-10,2,1,5,529.29,2.5930000000000004,Negotiated fare,VeriFone Inc,Credit card
+2020-04-11,2,1,5,997.8999999999997,6.480555555555556,Negotiated fare,VeriFone Inc,Credit card
+2020-04-12,2,1,5,264.67,2.2790909090909093,Negotiated fare,VeriFone Inc,Credit card
+2020-04-13,2,1,5,608.6800000000001,6.323333333333333,Negotiated fare,VeriFone Inc,Credit card
+2020-04-14,2,1,5,984.5799999999998,3.2266666666666666,Negotiated fare,VeriFone Inc,Credit card
+2020-04-15,2,1,5,301.77000000000004,2.470625,Negotiated fare,VeriFone Inc,Credit card
+2020-04-16,2,1,5,615.9900000000001,4.4399999999999995,Negotiated fare,VeriFone Inc,Credit card
+2020-04-17,2,1,5,656.1099999999999,3.723684210526316,Negotiated fare,VeriFone Inc,Credit card
+2020-04-18,2,1,5,449.97,2.2150000000000007,Negotiated fare,VeriFone Inc,Credit card
+2020-04-19,2,1,5,826.0099999999999,5.401428571428572,Negotiated fare,VeriFone Inc,Credit card
+2020-04-20,2,1,5,976.57,3.840434782608696,Negotiated fare,VeriFone Inc,Credit card
+2020-04-21,2,1,5,432.3400000000001,1.3606250000000002,Negotiated fare,VeriFone Inc,Credit card
+2020-04-22,2,1,5,688.4599999999999,5.346666666666666,Negotiated fare,VeriFone Inc,Credit card
+2020-04-23,2,1,5,491.68,2.7464285714285714,Negotiated fare,VeriFone Inc,Credit card
+2020-04-24,2,1,5,416.6,2.54,Negotiated fare,VeriFone Inc,Credit card
+2020-04-25,2,1,5,323.2,2.078333333333333,Negotiated fare,VeriFone Inc,Credit card
+2020-04-26,2,1,5,568.17,3.228,Negotiated fare,VeriFone Inc,Credit card
+2020-04-27,2,1,5,1180.02,5.648571428571429,Negotiated fare,VeriFone Inc,Credit card
+2020-04-28,2,1,5,1051.6599999999996,2.9642307692307694,Negotiated fare,VeriFone Inc,Credit card
+2020-04-29,2,1,5,551.5200000000001,3.8380000000000005,Negotiated fare,VeriFone Inc,Credit card
+2020-04-30,2,1,5,396.85,2.0899999999999994,Negotiated fare,VeriFone Inc,Credit card
+2020-04-01,1,3,5,126.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-02,1,3,5,66.61,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-04,1,3,5,0.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-06,1,3,5,20.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-07,1,3,5,30.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-08,1,3,5,86.89999999999999,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-09,1,3,5,16.71,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-10,1,3,5,17.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-12,1,3,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-13,1,3,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-14,1,3,5,19.86,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-15,1,3,5,0.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-16,1,3,5,1460.98,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-17,1,3,5,16.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-18,1,3,5,0.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-19,1,3,5,69.41,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-20,1,3,5,35.61,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-21,1,3,5,35.919999999999995,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-22,1,3,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-24,1,3,5,28.900000000000002,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-25,1,3,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-26,1,3,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-27,1,3,5,24.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-29,1,3,5,50.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",No charge
+2020-04-03,2,3,5,-10.8,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-08,2,3,5,-20.3,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-10,2,3,5,-20.23,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-23,2,3,5,-100.8,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-25,2,3,5,-15.3,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-27,2,3,5,-10.8,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-28,2,3,5,-18.3,0.0,Negotiated fare,VeriFone Inc,No charge
+2020-04-01,1,2,5,153.45000000000002,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-02,1,2,5,190.45999999999998,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-03,1,2,5,131.7,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-04,1,2,5,149.01,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-05,1,2,5,135.75,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-06,1,2,5,111.71000000000001,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-07,1,2,5,0.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-08,1,2,5,10.610000000000001,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-09,1,2,5,20.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-10,1,2,5,120.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-11,1,2,5,12.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-12,1,2,5,300.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-13,1,2,5,144.2,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-14,1,2,5,206.64,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-15,1,2,5,133.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-16,1,2,5,419.75000000000006,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-17,1,2,5,723.7799999999999,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-18,1,2,5,42.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-19,1,2,5,38.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-20,1,2,5,60.599999999999994,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-21,1,2,5,101.85,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-22,1,2,5,0.0,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-23,1,2,5,166.51999999999998,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-24,1,2,5,192.66000000000003,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-25,1,2,5,230.35,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-26,1,2,5,135.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-27,1,2,5,195.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-28,1,2,5,64.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-29,1,2,5,0.31,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-30,1,2,5,75.91,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Cash
+2020-04-01,2,2,5,139.78,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-02,2,2,5,162.89,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-03,2,2,5,222.01999999999998,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-04,2,2,5,427.01,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-05,2,2,5,244.0,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-06,2,2,5,318.95,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-07,2,2,5,215.96,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-08,2,2,5,458.48,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-09,2,2,5,102.45,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-10,2,2,5,173.22,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-11,2,2,5,173.8,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-12,2,2,5,199.35999999999999,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-13,2,2,5,131.0,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-14,2,2,5,422.38,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-15,2,2,5,178.96999999999997,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-16,2,2,5,285.46000000000004,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-17,2,2,5,62.92,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-18,2,2,5,70.8,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-19,2,2,5,162.04999999999998,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-20,2,2,5,288.75000000000006,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-21,2,2,5,268.84,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-22,2,2,5,174.14999999999998,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-23,2,2,5,453.1,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-24,2,2,5,92.55,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-25,2,2,5,291.96000000000004,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-26,2,2,5,210.73000000000002,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-27,2,2,5,283.97,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-28,2,2,5,276.67,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-29,2,2,5,289.21000000000004,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-30,2,2,5,571.04,0.0,Negotiated fare,VeriFone Inc,Cash
+2020-04-06,1,4,5,0.6,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Dispute
+2020-04-14,1,4,5,17.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Dispute
+2020-04-17,1,4,5,12.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Dispute
+2020-04-20,1,4,5,17.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Dispute
+2020-04-29,1,4,5,0.3,0.0,Negotiated fare,"Creative Mobile Technologies, LLC",Dispute
+2020-04-01,2,4,5,-23.3,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-03,2,4,5,-26.8,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-11,2,4,5,-18.1,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-12,2,4,5,-50.8,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-24,2,4,5,-12.25,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-26,2,4,5,-85.6,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-27,2,4,5,-78.9,0.0,Negotiated fare,VeriFone Inc,Dispute
+2020-04-01,1,1,1,38104.579999999834,2.255135135135133,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-02,1,1,1,34951.63999999977,2.3648038763267163,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-03,1,1,1,40771.45000000003,2.3829151441331677,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-04,1,1,1,23403.069999999752,2.238297734627831,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-05,1,1,1,19418.779999999875,2.478358565737049,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-06,1,1,1,32158.819999999607,2.2757481108312345,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-07,1,1,1,30771.32999999964,2.3265366367949367,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-08,1,1,1,30842.219999999652,2.248272305312018,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-09,1,1,1,29814.879999999663,2.367545945945944,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-10,1,1,1,33688.89999999963,2.402160262417993,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-11,1,1,1,22756.769999999833,2.3796646132785733,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-12,1,1,1,16650.37999999991,2.297032558139534,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-13,1,1,1,29556.769999999717,2.255687671232877,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-14,1,1,1,32815.639999999636,2.271255539143276,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-15,1,1,1,32922.81999999963,2.3227228446176342,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-16,1,1,1,31935.019999999644,2.3463466397170283,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-17,1,1,1,39120.77999999989,2.3086859781696014,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-18,1,1,1,22227.54999999983,2.3239927272727243,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-19,1,1,1,21545.309999999834,2.349309576837416,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-20,1,1,1,31332.63999999986,2.3673030142781584,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-21,1,1,1,31894.82999999964,2.323011363636361,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-22,1,1,1,33056.399999999674,2.3711758793969815,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-23,1,1,1,32724.63999999961,2.401117152743452,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-24,1,1,1,36719.409999999916,2.3363395570994334,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-25,1,1,1,26763.349999999667,2.474920924574212,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-26,1,1,1,18382.490000000016,2.416649703138253,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-27,1,1,1,32884.919999999605,2.2770208540218424,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-28,1,1,1,35491.239999999736,2.3559168591223982,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-29,1,1,1,35698.93999999975,2.2715969062784307,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-04-30,1,1,1,37468.68999999983,2.3777958644962625,Standard rate,"Creative Mobile Technologies, LLC",Credit card
+2020-02-02,2,1,1,113.96000000000001,3.8920000000000003,Standard rate,VeriFone Inc,Credit card
+2020-02-03,2,1,1,313.06000000000006,2.3610526315789473,Standard rate,VeriFone Inc,Credit card
+2020-02-04,2,1,1,113.95,2.692857142857143,Standard rate,VeriFone Inc,Credit card
+2020-02-05,2,1,1,194.71999999999997,2.51,Standard rate,VeriFone Inc,Credit card
+2020-02-06,2,1,1,308.12000000000006,2.1580952380952385,Standard rate,VeriFone Inc,Credit card
+2020-02-07,2,1,1,137.33999999999997,2.434,Standard rate,VeriFone Inc,Credit card
+2020-03-07,2,1,1,97.64,3.128,Standard rate,VeriFone Inc,Credit card
+2020-03-08,2,1,1,156.47000000000003,2.5722222222222224,Standard rate,VeriFone Inc,Credit card
+2020-03-09,2,1,1,117.89999999999999,3.016666666666667,Standard rate,VeriFone Inc,Credit card
+2020-03-10,2,1,1,88.6,3.8200000000000003,Standard rate,VeriFone Inc,Credit card
+2020-04-01,2,1,1,47524.020000000375,2.45385739750445,Standard rate,VeriFone Inc,Credit card
+2020-04-02,2,1,1,46807.63000000039,2.5297425670775895,Standard rate,VeriFone Inc,Credit card
+2020-04-03,2,1,1,52964.860000000735,2.505265855221007,Standard rate,VeriFone Inc,Credit card
+2020-04-04,2,1,1,30812.7799999997,2.490603878116341,Standard rate,VeriFone Inc,Credit card
+2020-04-05,2,1,1,26177.02999999975,2.5264381720430067,Standard rate,VeriFone Inc,Credit card
+2020-04-06,2,1,1,41942.50000000011,2.487137080469062,Standard rate,VeriFone Inc,Credit card
+2020-04-07,2,1,1,40481.279999999955,2.448535773710476,Standard rate,VeriFone Inc,Credit card
+2020-04-08,2,1,1,40472.34000000006,2.5868657331136724,Standard rate,VeriFone Inc,Credit card
+2020-04-09,2,1,1,41015.27000000007,2.5209740259740205,Standard rate,VeriFone Inc,Credit card
+2020-04-10,2,1,1,44170.09000000028,2.5610225104921693,Standard rate,VeriFone Inc,Credit card
+2020-04-11,2,1,1,31968.769999999724,2.575798319327729,Standard rate,VeriFone Inc,Credit card
+2020-04-12,2,1,1,23619.709999999788,2.5961578171091437,Standard rate,VeriFone Inc,Credit card
+2020-04-13,2,1,1,41049.36000000001,2.569882733522032,Standard rate,VeriFone Inc,Credit card
+2020-04-14,2,1,1,42010.46000000012,2.550811778750492,Standard rate,VeriFone Inc,Credit card
+2020-04-15,2,1,1,43602.41000000025,2.5786798296554303,Standard rate,VeriFone Inc,Credit card
+2020-04-16,2,1,1,44882.13000000019,2.4646688988095153,Standard rate,VeriFone Inc,Credit card
+2020-04-17,2,1,1,50106.43000000054,2.608868053187857,Standard rate,VeriFone Inc,Credit card
+2020-04-18,2,1,1,29690.329999999733,2.49234997195737,Standard rate,VeriFone Inc,Credit card
+2020-04-19,2,1,1,27635.409999999716,2.6263034055727528,Standard rate,VeriFone Inc,Credit card
+2020-04-20,2,1,1,42141.47999999966,2.508443042964129,Standard rate,VeriFone Inc,Credit card
+2020-04-21,2,1,1,42565.840000000266,2.646374999999991,Standard rate,VeriFone Inc,Credit card
+2020-04-22,2,1,1,46380.24000000038,2.535857500895088,Standard rate,VeriFone Inc,Credit card
+2020-04-23,2,1,1,48326.89000000047,2.5978225806451527,Standard rate,VeriFone Inc,Credit card
+2020-04-24,2,1,1,48314.42000000048,2.568331043956039,Standard rate,VeriFone Inc,Credit card
+2020-04-25,2,1,1,36952.65999999999,2.5464101423487504,Standard rate,VeriFone Inc,Credit card
+2020-04-26,2,1,1,27473.459999999875,2.822115262824572,Standard rate,VeriFone Inc,Credit card
+2020-04-27,2,1,1,47734.410000000455,2.5834035087719203,Standard rate,VeriFone Inc,Credit card
+2020-04-28,2,1,1,44927.0200000004,2.6276331582895636,Standard rate,VeriFone Inc,Credit card
+2020-04-29,2,1,1,47008.09000000043,2.6066295764536873,Standard rate,VeriFone Inc,Credit card
+2020-04-30,2,1,1,48178.17000000035,2.595867364746937,Standard rate,VeriFone Inc,Credit card
+2020-04-01,1,3,1,909.5999999999992,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-02,1,3,1,960.7799999999993,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-03,1,3,1,1206.669999999998,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-04,1,3,1,816.3699999999997,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-05,1,3,1,894.3399999999991,0.09621212121212121,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-06,1,3,1,1382.0199999999977,0.08017241379310346,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-07,1,3,1,693.9499999999999,0.030500000000000003,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-08,1,3,1,719.8999999999997,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-09,1,3,1,947.4999999999991,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-10,1,3,1,1215.839999999998,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-11,1,3,1,760.4999999999994,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-12,1,3,1,408.3000000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-13,1,3,1,739.6499999999993,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-14,1,3,1,1225.119999999998,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-15,1,3,1,1084.7999999999984,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-16,1,3,1,1129.8499999999985,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-17,1,3,1,1249.519999999998,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-18,1,3,1,867.3199999999991,0.03225806451612903,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-19,1,3,1,659.9999999999997,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-20,1,3,1,1046.88,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-21,1,3,1,1009.0399999999983,0.017073170731707315,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-22,1,3,1,1367.6999999999975,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-23,1,3,1,1021.9599999999986,0.039473684210526314,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-24,1,3,1,1338.7999999999975,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-25,1,3,1,1042.7199999999987,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-26,1,3,1,745.4200000000004,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-27,1,3,1,1019.2999999999985,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-28,1,3,1,828.0999999999992,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-29,1,3,1,1107.9399999999982,0.053333333333333344,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-30,1,3,1,1487.7899999999972,0.0,Standard rate,"Creative Mobile Technologies, LLC",No charge
+2020-04-01,2,3,1,-112.21999999999997,-0.04555555555555555,Standard rate,VeriFone Inc,No charge
+2020-04-02,2,3,1,-151.89999999999998,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-03,2,3,1,-230.66000000000008,-0.027142857142857142,Standard rate,VeriFone Inc,No charge
+2020-04-04,2,3,1,-143.79999999999998,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-05,2,3,1,-24.200000000000003,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-06,2,3,1,-118.59999999999997,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-07,2,3,1,-65.09999999999998,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-08,2,3,1,-56.499999999999986,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-09,2,3,1,-59.36,-0.07333333333333333,Standard rate,VeriFone Inc,No charge
+2020-04-10,2,3,1,-94.00999999999998,-0.08923076923076922,Standard rate,VeriFone Inc,No charge
+2020-04-11,2,3,1,-34.8,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-12,2,3,1,-121.59999999999998,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-13,2,3,1,-53.15999999999999,-0.066,Standard rate,VeriFone Inc,No charge
+2020-04-14,2,3,1,-165.8,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-15,2,3,1,-54.69999999999999,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-16,2,3,1,-45.599999999999994,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-17,2,3,1,-168.62000000000003,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-18,2,3,1,-80.39999999999999,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-19,2,3,1,-36.3,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-20,2,3,1,-76.3,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-21,2,3,1,-71.60999999999999,-0.11599999999999999,Standard rate,VeriFone Inc,No charge
+2020-04-22,2,3,1,-57.199999999999996,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-23,2,3,1,-86.99999999999999,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-24,2,3,1,-127.99999999999997,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-25,2,3,1,-100.99999999999999,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-26,2,3,1,-49.7,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-27,2,3,1,-92.39999999999999,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-28,2,3,1,-85.59999999999998,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-29,2,3,1,-169.4,0.0,Standard rate,VeriFone Inc,No charge
+2020-04-30,2,3,1,-121.11999999999998,-0.05125,Standard rate,VeriFone Inc,No charge
+2020-04-01,1,2,1,18895.339999999516,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-02,1,2,1,17127.65999999961,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-03,1,2,1,20233.629999999408,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-04,1,2,1,13927.709999999797,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-05,1,2,1,10922.959999999948,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-06,1,2,1,16239.149999999681,0.0020430107526881723,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-07,1,2,1,15816.629999999752,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-08,1,2,1,14715.079999999727,0.0020321761219305673,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-09,1,2,1,14237.56999999978,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-10,1,2,1,16081.499999999683,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-11,1,2,1,12952.429999999813,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-12,1,2,1,8784.730000000056,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-13,1,2,1,12362.599999999902,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-14,1,2,1,15349.37999999971,1.6103059581320453E-5,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-15,1,2,1,15280.699999999699,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-16,1,2,1,15314.539999999693,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-17,1,2,1,17890.529999999577,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-18,1,2,1,10563.339999999958,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-19,1,2,1,9505.020000000015,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-20,1,2,1,14571.38000000007,4.0577096483318303E-4,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-21,1,2,1,13903.299999999796,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-22,1,2,1,15555.999999999702,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-23,1,2,1,15488.739999999732,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-24,1,2,1,17493.269999999608,2.987303958177745E-4,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-25,1,2,1,13234.539999999804,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-26,1,2,1,9357.280000000057,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-27,1,2,1,14548.079999999743,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-28,1,2,1,17176.13999999964,0.0024830699774266362,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-29,1,2,1,16563.09999999962,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2020-04-30,1,2,1,17533.33999999958,0.0,Standard rate,"Creative Mobile Technologies, LLC",Cash
+2009-01-01,2,2,1,3.3,0.0,Standard rate,VeriFone Inc,Cash
+2020-02-02,2,2,1,14.8,0.0,Standard rate,VeriFone Inc,Cash
+2020-02-03,2,2,1,131.72,0.0,Standard rate,VeriFone Inc,Cash
+2020-02-04,2,2,1,17.1,0.0,Standard rate,VeriFone Inc,Cash
+2020-02-05,2,2,1,39.400000000000006,0.0,Standard rate,VeriFone Inc,Cash
+2020-02-07,2,2,1,20.1,0.0,Standard rate,VeriFone Inc,Cash
+2020-03-07,2,2,1,32.7,0.0,Standard rate,VeriFone Inc,Cash
+2020-03-08,2,2,1,114.22,0.0,Standard rate,VeriFone Inc,Cash
+2020-03-10,2,2,1,69.7,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-01,2,2,1,26859.45999999906,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-02,2,2,1,24200.289999999208,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-03,2,2,1,28154.789999998986,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-04,2,2,1,17693.12999999959,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-05,2,2,1,13032.189999999835,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-06,2,2,1,23188.299999999286,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-07,2,2,1,20443.52999999954,0.0029968253968253966,Standard rate,VeriFone Inc,Cash
+2020-04-08,2,2,1,20711.229999999414,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-09,2,2,1,20450.789999999422,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-10,2,2,1,21373.059999999346,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-11,2,2,1,16884.14999999963,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-12,2,2,1,11373.839999999926,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-13,2,2,1,18340.739999999587,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-14,2,2,1,21950.119999999337,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-15,2,2,1,20880.839999999404,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-16,2,2,1,21959.44999999934,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-17,2,2,1,25962.899999999092,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-18,2,2,1,16669.83999999963,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-19,2,2,1,12792.579999999838,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-20,2,2,1,23416.549999999817,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-21,2,2,1,20622.919999999398,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-22,2,2,1,23340.379999999284,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-23,2,2,1,22760.519999999276,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-24,2,2,1,24329.379999999244,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-25,2,2,1,18902.259999999493,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-26,2,2,1,12871.400000000096,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-27,2,2,1,21728.48999999931,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-28,2,2,1,23600.879999999233,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-29,2,2,1,23231.369999999297,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-30,2,2,1,22267.519999999342,0.0,Standard rate,VeriFone Inc,Cash
+2020-04-01,1,4,1,177.40000000000003,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-02,1,4,1,344.5000000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-03,1,4,1,343.0000000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-04,1,4,1,393.8200000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-05,1,4,1,329.00000000000006,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-06,1,4,1,385.2000000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-07,1,4,1,224.40000000000006,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-08,1,4,1,347.17000000000013,0.04535714285714286,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-09,1,4,1,209.20000000000005,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-10,1,4,1,377.8200000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-11,1,4,1,185.80000000000004,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-12,1,4,1,205.3200000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-13,1,4,1,298.4400000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-14,1,4,1,384.8000000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-15,1,4,1,215.60000000000008,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-16,1,4,1,593.1000000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-17,1,4,1,378.1500000000001,0.07148148148148148,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-18,1,4,1,388.3400000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-19,1,4,1,195.60000000000005,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-20,1,4,1,286.9,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-21,1,4,1,325.9200000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-22,1,4,1,329.8000000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-23,1,4,1,467.62000000000023,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-24,1,4,1,317.50000000000017,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-25,1,4,1,305.1200000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-26,1,4,1,270.8,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-27,1,4,1,253.42000000000004,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-28,1,4,1,303.5800000000001,0.017142857142857144,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-29,1,4,1,372.2200000000002,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-30,1,4,1,352.3000000000001,0.0,Standard rate,"Creative Mobile Technologies, LLC",Dispute
+2020-04-01,2,4,1,-403.52000000000015,0.08499999999999999,Standard rate,VeriFone Inc,Dispute
+2020-04-02,2,4,1,-275.3000000000001,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-03,2,4,1,-197.40000000000006,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-04,2,4,1,-167.00000000000006,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-05,2,4,1,-244.34000000000003,0.09125,Standard rate,VeriFone Inc,Dispute
+2020-04-06,2,4,1,-319.80000000000007,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-07,2,4,1,-236.44000000000003,0.22421052631578947,Standard rate,VeriFone Inc,Dispute
+2020-04-08,2,4,1,-381.9600000000002,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-09,2,4,1,-377.70000000000016,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-10,2,4,1,-228.00000000000006,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-11,2,4,1,-285.9700000000001,0.1823809523809524,Standard rate,VeriFone Inc,Dispute
+2020-04-12,2,4,1,-115.29999999999998,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-13,2,4,1,-435.52000000000015,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-14,2,4,1,-275.82000000000016,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-15,2,4,1,-287.32000000000005,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-16,2,4,1,-344.67000000000013,-0.03727272727272727,Standard rate,VeriFone Inc,Dispute
+2020-04-17,2,4,1,-263.10000000000014,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-18,2,4,1,-151.89999999999998,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-19,2,4,1,-189.50000000000003,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-20,2,4,1,-329.5000000000001,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-21,2,4,1,-407.04000000000025,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-22,2,4,1,-365.9000000000002,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-23,2,4,1,-371.5000000000001,-0.06,Standard rate,VeriFone Inc,Dispute
+2020-04-24,2,4,1,-260.90000000000015,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-25,2,4,1,-160.20000000000002,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-26,2,4,1,-135.29999999999998,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-27,2,4,1,-220.50000000000009,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-28,2,4,1,-215.4000000000001,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-29,2,4,1,-191.54000000000005,0.20941176470588235,Standard rate,VeriFone Inc,Dispute
+2020-04-30,2,4,1,-234.40000000000003,0.0,Standard rate,VeriFone Inc,Dispute
+2020-04-01,1,1,3,184.89999999999998,15.4,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-03,1,1,3,384.65000000000003,15.15,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-04,1,1,3,90.65,15.1,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-05,1,1,3,218.85,2.5,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-08,1,1,3,21.8,0.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-09,1,1,3,78.3,10.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-11,1,1,3,176.70999999999998,11.555,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-13,1,1,3,382.03999999999996,15.7125,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-15,1,1,3,168.7,7.3,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-16,1,1,3,222.08999999999997,2.5,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-18,1,1,3,102.35,1.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-19,1,1,3,92.35,21.3,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-23,1,1,3,60.65,10.1,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-24,1,1,3,282.94,27.3,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-25,1,1,3,249.83999999999997,10.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-27,1,1,3,195.1,12.5,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-28,1,1,3,23.8,3.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-29,1,1,3,20.8,0.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-30,1,1,3,185.39999999999998,6.0,Newark,"Creative Mobile Technologies, LLC",Credit card
+2020-04-01,2,1,3,523.07,14.14,Newark,VeriFone Inc,Credit card
+2020-04-02,2,1,3,26.75,1.0,Newark,VeriFone Inc,Credit card
+2020-04-03,2,1,3,276.43,21.24,Newark,VeriFone Inc,Credit card
+2020-04-04,2,1,3,221.35000000000002,17.064999999999998,Newark,VeriFone Inc,Credit card
+2020-04-05,2,1,3,92.55,18.0,Newark,VeriFone Inc,Credit card
+2020-04-07,2,1,3,84.44,16.89,Newark,VeriFone Inc,Credit card
+2020-04-08,2,1,3,55.86,9.31,Newark,VeriFone Inc,Credit card
+2020-04-10,2,1,3,95.61,22.06,Newark,VeriFone Inc,Credit card
+2020-04-11,2,1,3,93.01,21.46,Newark,VeriFone Inc,Credit card
+2020-04-12,2,1,3,276.25,21.366666666666664,Newark,VeriFone Inc,Credit card
+2020-04-14,2,1,3,86.05,10.0,Newark,VeriFone Inc,Credit card
+2020-04-15,2,1,3,93.81,15.31,Newark,VeriFone Inc,Credit card
+2020-04-16,2,1,3,157.94,11.67,Newark,VeriFone Inc,Credit card
+2020-04-17,2,1,3,161.74,14.07,Newark,VeriFone Inc,Credit card
+2020-04-18,2,1,3,70.71,11.46,Newark,VeriFone Inc,Credit card
+2020-04-19,2,1,3,100.26,16.71,Newark,VeriFone Inc,Credit card
+2020-04-20,2,1,3,149.6,24.93,Newark,VeriFone Inc,Credit card
+2020-04-22,2,1,3,83.76,13.96,Newark,VeriFone Inc,Credit card
+2020-04-24,2,1,3,167.15,27.86,Newark,VeriFone Inc,Credit card
+2020-04-25,2,1,3,215.11,2.736666666666667,Newark,VeriFone Inc,Credit card
+2020-04-26,2,1,3,24.8,4.0,Newark,VeriFone Inc,Credit card
+2020-04-27,2,1,3,190.41,8.405,Newark,VeriFone Inc,Credit card
+2020-04-29,2,1,3,23.05,2.75,Newark,VeriFone Inc,Credit card
+2020-04-30,2,1,3,439.44,25.49,Newark,VeriFone Inc,Credit card
+2020-04-02,1,3,3,50.8,0.0,Newark,"Creative Mobile Technologies, LLC",No charge
+2020-04-07,1,3,3,41.6,0.0,Newark,"Creative Mobile Technologies, LLC",No charge
+2020-04-14,1,3,3,20.3,0.0,Newark,"Creative Mobile Technologies, LLC",No charge
+2020-04-21,1,3,3,41.1,0.0,Newark,"Creative Mobile Technologies, LLC",No charge
+2020-04-29,1,3,3,20.3,0.0,Newark,"Creative Mobile Technologies, LLC",No charge
+2020-04-06,2,3,3,-22.8,0.0,Newark,VeriFone Inc,No charge
+2020-04-08,2,3,3,-71.3,0.0,Newark,VeriFone Inc,No charge
+2020-04-17,2,3,3,-20.3,0.0,Newark,VeriFone Inc,No charge
+2020-04-01,1,2,3,137.6,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-02,1,2,3,163.35,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-03,1,2,3,82.05,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-07,1,2,3,82.05,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-11,1,2,3,38.55,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-12,1,2,3,82.8,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-13,1,2,3,84.6,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-14,1,2,3,141.8,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-19,1,2,3,40.6,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-23,1,2,3,124.05,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-24,1,2,3,20.8,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-30,1,2,3,81.55,0.0,Newark,"Creative Mobile Technologies, LLC",Cash
+2020-04-01,2,2,3,88.35,0.0,Newark,VeriFone Inc,Cash
+2020-04-02,2,2,3,266.34000000000003,0.0,Newark,VeriFone Inc,Cash
+2020-04-04,2,2,3,130.47,0.0,Newark,VeriFone Inc,Cash
+2020-04-05,2,2,3,176.97,0.0,Newark,VeriFone Inc,Cash
+2020-04-06,2,2,3,63.900000000000006,0.0,Newark,VeriFone Inc,Cash
+2020-04-07,2,2,3,21.3,0.0,Newark,VeriFone Inc,Cash
+2020-04-08,2,2,3,279.45,0.0,Newark,VeriFone Inc,Cash
+2020-04-10,2,2,3,153.1,0.0,Newark,VeriFone Inc,Cash
+2020-04-11,2,2,3,65.6,0.0,Newark,VeriFone Inc,Cash
+2020-04-12,2,2,3,87.05,0.0,Newark,VeriFone Inc,Cash
+2020-04-13,2,2,3,174.15,0.0,Newark,VeriFone Inc,Cash
+2020-04-14,2,2,3,80.35,0.0,Newark,VeriFone Inc,Cash
+2020-04-16,2,2,3,20.3,0.0,Newark,VeriFone Inc,Cash
+2020-04-17,2,2,3,128.14000000000001,0.0,Newark,VeriFone Inc,Cash
+2020-04-19,2,2,3,65.35,0.0,Newark,VeriFone Inc,Cash
+2020-04-20,2,2,3,137.35,0.0,Newark,VeriFone Inc,Cash
+2020-04-21,2,2,3,210.45,0.0,Newark,VeriFone Inc,Cash
+2020-04-23,2,2,3,83.55,0.0,Newark,VeriFone Inc,Cash
+2020-04-24,2,2,3,152.72,0.0,Newark,VeriFone Inc,Cash
+2020-04-26,2,2,3,81.55,0.0,Newark,VeriFone Inc,Cash
+2020-04-27,2,2,3,190.01999999999998,0.0,Newark,VeriFone Inc,Cash
+2020-04-29,2,2,3,137.6,0.0,Newark,VeriFone Inc,Cash
+2020-04-30,2,2,3,21.3,0.0,Newark,VeriFone Inc,Cash
+2020-04-11,1,4,3,22.3,0.0,Newark,"Creative Mobile Technologies, LLC",Dispute
+2020-04-27,1,4,3,20.3,0.0,Newark,"Creative Mobile Technologies, LLC",Dispute
+2020-04-08,2,4,3,-21.3,0.0,Newark,VeriFone Inc,Dispute
+2020-04-01,1,1,2,698.8,11.120000000000001,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-02,1,1,2,486.65999999999997,10.511428571428572,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-03,1,1,2,492.62,9.879999999999999,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-04,1,1,2,541.5200000000001,10.094999999999999,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-05,1,1,2,651.3599999999999,11.633333333333333,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-06,1,1,2,266.02,8.55,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-07,1,1,2,365.92,11.687999999999999,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-08,1,1,2,211.34000000000003,9.566666666666666,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-09,1,1,2,199.61,5.116666666666666,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-10,1,1,2,489.51000000000005,9.33,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-11,1,1,2,607.33,8.378888888888888,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-12,1,1,2,323.47,6.7219999999999995,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-13,1,1,2,261.81,3.9375,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-15,1,1,2,315.93,16.685,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-16,1,1,2,489.95,9.784285714285714,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-17,1,1,2,408.01,8.141666666666667,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-18,1,1,2,509.75,11.721428571428572,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-19,1,1,2,539.7199999999999,8.6525,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-20,1,1,2,136.98,10.13,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-21,1,1,2,370.56,11.540000000000001,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-22,1,1,2,370.51000000000005,11.030000000000001,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-23,1,1,2,215.86,10.533333333333333,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-24,1,1,2,298.26,14.985,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-25,1,1,2,128.97,6.125,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-26,1,1,2,462.43999999999994,7.265714285714286,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-27,1,1,2,412.61,8.575,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-28,1,1,2,427.32000000000005,9.32,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-29,1,1,2,285.49,10.3575,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-04-30,1,1,2,594.5699999999999,12.24375,JFK,"Creative Mobile Technologies, LLC",Credit card
+2020-03-09,2,1,2,75.81,9.89,JFK,VeriFone Inc,Credit card
+2020-04-01,2,1,2,1500.65,10.960476190476191,JFK,VeriFone Inc,Credit card
+2020-04-02,2,1,2,1026.8899999999999,8.560666666666666,JFK,VeriFone Inc,Credit card
+2020-04-03,2,1,2,1456.2299999999998,9.600476190476192,JFK,VeriFone Inc,Credit card
+2020-04-04,2,1,2,1478.4299999999998,16.311500000000002,JFK,VeriFone Inc,Credit card
+2020-04-05,2,1,2,1625.48,14.222272727272724,JFK,VeriFone Inc,Credit card
+2020-04-06,2,1,2,1204.13,17.588749999999997,JFK,VeriFone Inc,Credit card
+2020-04-07,2,1,2,866.95,19.452727272727273,JFK,VeriFone Inc,Credit card
+2020-04-08,2,1,2,796.4799999999999,21.388,JFK,VeriFone Inc,Credit card
+2020-04-09,2,1,2,1016.23,16.126428571428573,JFK,VeriFone Inc,Credit card
+2020-04-10,2,1,2,794.56,12.155454545454546,JFK,VeriFone Inc,Credit card
+2020-04-11,2,1,2,1470.6000000000001,13.7925,JFK,VeriFone Inc,Credit card
+2020-04-12,2,1,2,1374.1699999999998,12.587894736842106,JFK,VeriFone Inc,Credit card
+2020-04-13,2,1,2,1044.08,8.158666666666669,JFK,VeriFone Inc,Credit card
+2020-04-14,2,1,2,1126.2499999999998,10.585625,JFK,VeriFone Inc,Credit card
+2020-04-15,2,1,2,852.74,10.525,JFK,VeriFone Inc,Credit card
+2020-04-16,2,1,2,521.07,12.678571428571429,JFK,VeriFone Inc,Credit card
+2020-04-17,2,1,2,916.68,18.383333333333333,JFK,VeriFone Inc,Credit card
+2020-04-18,2,1,2,1165.09,10.027058823529414,JFK,VeriFone Inc,Credit card
+2020-04-19,2,1,2,1207.8999999999999,11.808235294117647,JFK,VeriFone Inc,Credit card
+2020-04-20,2,1,2,1084.92,18.18857142857143,JFK,VeriFone Inc,Credit card
+2020-04-21,2,1,2,498.46,12.071428571428573,JFK,VeriFone Inc,Credit card
+2020-04-22,2,1,2,614.32,9.540000000000001,JFK,VeriFone Inc,Credit card
+2020-04-23,2,1,2,357.28,12.408,JFK,VeriFone Inc,Credit card
+2020-04-24,2,1,2,984.98,10.47857142857143,JFK,VeriFone Inc,Credit card
+2020-04-25,2,1,2,1079.4700000000003,8.584375,JFK,VeriFone Inc,Credit card
+2020-04-26,2,1,2,1411.0299999999997,11.467500000000001,JFK,VeriFone Inc,Credit card
+2020-04-27,2,1,2,560.96,9.4175,JFK,VeriFone Inc,Credit card
+2020-04-28,2,1,2,1672.83,11.164347826086955,JFK,VeriFone Inc,Credit card
+2020-04-29,2,1,2,1234.78,10.641764705882354,JFK,VeriFone Inc,Credit card
+2020-04-30,2,1,2,1212.8899999999999,15.837500000000002,JFK,VeriFone Inc,Credit card
+2020-04-01,1,3,2,170.39999999999998,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-02,1,3,2,59.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-03,1,3,2,116.22,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-05,1,3,2,61.42,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-10,1,3,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-12,1,3,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-14,1,3,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-17,1,3,2,110.6,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-19,1,3,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-20,1,3,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-22,1,3,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-27,1,3,2,59.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-28,1,3,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-29,1,3,2,108.1,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-30,1,3,2,118.72,0.0,JFK,"Creative Mobile Technologies, LLC",No charge
+2020-04-06,2,3,2,-59.8,0.0,JFK,VeriFone Inc,No charge
+2020-04-13,2,3,2,-52.8,0.0,JFK,VeriFone Inc,No charge
+2020-04-18,2,3,2,-55.3,0.0,JFK,VeriFone Inc,No charge
+2020-04-20,2,3,2,-57.3,0.0,JFK,VeriFone Inc,No charge
+2020-04-24,2,3,2,-55.3,0.0,JFK,VeriFone Inc,No charge
+2020-04-30,2,3,2,-55.3,0.0,JFK,VeriFone Inc,No charge
+2020-04-01,1,2,2,350.04,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-02,1,2,2,178.14,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-03,1,2,2,349.66,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-04,1,2,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-05,1,2,2,181.76,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-06,1,2,2,311.1,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-07,1,2,2,165.89999999999998,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-08,1,2,2,116.72,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-09,1,2,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-10,1,2,2,65.92,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-11,1,2,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-12,1,2,2,173.14,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-13,1,2,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-14,1,2,2,116.72,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-15,1,2,2,61.42,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-17,1,2,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-19,1,2,2,122.84,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-20,1,2,2,118.72,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-22,1,2,2,58.92,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-24,1,2,2,118.72,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-25,1,2,2,58.92,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-26,1,2,2,122.84,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-28,1,2,2,57.3,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-29,1,2,2,121.22,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-04-30,1,2,2,108.1,0.0,JFK,"Creative Mobile Technologies, LLC",Cash
+2020-03-07,2,2,2,61.42,0.0,JFK,VeriFone Inc,Cash
+2020-03-09,2,2,2,61.42,0.0,JFK,VeriFone Inc,Cash
+2020-04-01,2,2,2,288.24,0.0,JFK,VeriFone Inc,Cash
+2020-04-02,2,2,2,561.0,0.0,JFK,VeriFone Inc,Cash
+2020-04-03,2,2,2,639.66,0.0,JFK,VeriFone Inc,Cash
+2020-04-04,2,2,2,511.06000000000006,0.0,JFK,VeriFone Inc,Cash
+2020-04-05,2,2,2,346.46000000000004,0.0,JFK,VeriFone Inc,Cash
+2020-04-06,2,2,2,690.8399999999999,0.0,JFK,VeriFone Inc,Cash
+2020-04-07,2,2,2,233.44,0.0,JFK,VeriFone Inc,Cash
+2020-04-08,2,2,2,362.78000000000003,0.0,JFK,VeriFone Inc,Cash
+2020-04-09,2,2,2,458.14000000000004,0.0,JFK,VeriFone Inc,Cash
+2020-04-10,2,2,2,417.96000000000004,0.0,JFK,VeriFone Inc,Cash
+2020-04-11,2,2,2,452.14000000000004,0.0,JFK,VeriFone Inc,Cash
+2020-04-12,2,2,2,55.3,0.0,JFK,VeriFone Inc,Cash
+2020-04-13,2,2,2,339.92,0.0,JFK,VeriFone Inc,Cash
+2020-04-14,2,2,2,524.1800000000001,0.0,JFK,VeriFone Inc,Cash
+2020-04-15,2,2,2,115.1,0.0,JFK,VeriFone Inc,Cash
+2020-04-16,2,2,2,221.2,0.0,JFK,VeriFone Inc,Cash
+2020-04-17,2,2,2,571.24,0.0,JFK,VeriFone Inc,Cash
+2020-04-18,2,2,2,872.3399999999998,0.0,JFK,VeriFone Inc,Cash
+2020-04-19,2,2,2,341.54,0.0,JFK,VeriFone Inc,Cash
+2020-04-20,2,2,2,448.02,0.0,JFK,VeriFone Inc,Cash
+2020-04-21,2,2,2,383.22,0.0,JFK,VeriFone Inc,Cash
+2020-04-22,2,2,2,571.24,0.0,JFK,VeriFone Inc,Cash
+2020-04-23,2,2,2,411.84000000000003,0.0,JFK,VeriFone Inc,Cash
+2020-04-24,2,2,2,465.64000000000004,0.0,JFK,VeriFone Inc,Cash
+2020-04-25,2,2,2,616.66,0.0,JFK,VeriFone Inc,Cash
+2020-04-26,2,2,2,683.0799999999999,0.0,JFK,VeriFone Inc,Cash
+2020-04-27,2,2,2,174.01999999999998,0.0,JFK,VeriFone Inc,Cash
+2020-04-28,2,2,2,404.22,0.0,JFK,VeriFone Inc,Cash
+2020-04-29,2,2,2,645.02,0.0,JFK,VeriFone Inc,Cash
+2020-04-30,2,2,2,571.24,0.0,JFK,VeriFone Inc,Cash
+2020-04-01,1,4,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-03,1,4,2,115.1,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-04,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-09,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-10,1,4,2,57.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-12,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-14,1,4,2,52.8,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-16,1,4,2,57.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-19,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-23,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-24,1,4,2,55.3,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-29,1,4,2,121.22,0.0,JFK,"Creative Mobile Technologies, LLC",Dispute
+2020-04-03,2,4,2,-55.3,0.0,JFK,VeriFone Inc,Dispute
+2020-04-05,2,4,2,-108.1,0.0,JFK,VeriFone Inc,Dispute
+2020-04-09,2,4,2,-55.3,0.0,JFK,VeriFone Inc,Dispute
+2020-04-10,2,4,2,-167.89999999999998,0.0,JFK,VeriFone Inc,Dispute
+2020-04-11,2,4,2,-110.6,0.0,JFK,VeriFone Inc,Dispute
+2020-04-12,2,4,2,-55.3,0.0,JFK,VeriFone Inc,Dispute
+2020-04-14,2,4,2,-115.1,0.0,JFK,VeriFone Inc,Dispute
+2020-04-15,2,4,2,-55.3,0.0,JFK,VeriFone Inc,Dispute
+2020-04-17,2,4,2,-52.8,0.0,JFK,VeriFone Inc,Dispute
+2020-04-18,2,4,2,-61.42,0.0,JFK,VeriFone Inc,Dispute
+2020-04-23,2,4,2,-112.6,0.0,JFK,VeriFone Inc,Dispute
+2020-04-28,2,4,2,-55.3,0.0,JFK,VeriFone Inc,Dispute
+2020-04-30,2,4,2,-112.6,0.0,JFK,VeriFone Inc,Dispute
+2020-04-04,1,1,4,114.36999999999999,6.325,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-05,1,1,4,152.95,8.175,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-08,1,1,4,9.8,1.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-09,1,1,4,22.15,2.0250000000000004,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-11,1,1,4,77.15,12.85,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-12,1,1,4,241.16000000000003,5.46,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-13,1,1,4,93.8,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-14,1,1,4,158.6,7.5,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-15,1,1,4,17.3,1.5,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-17,1,1,4,109.64999999999999,8.525,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-18,1,1,4,660.96,42.43,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-19,1,1,4,213.92,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-20,1,1,4,47.8,5.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-21,1,1,4,231.25,2.0125,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-22,1,1,4,292.25,10.2325,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-23,1,1,4,18.53,0.9650000000000001,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-24,1,1,4,56.949999999999996,1.175,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-26,1,1,4,308.42,20.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-27,1,1,4,21.1,1.5,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-28,1,1,4,22.45,5.15,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-29,1,1,4,327.78,22.270000000000003,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-30,1,1,4,37.2,1.9333333333333336,Nassau or Westchester,"Creative Mobile Technologies, LLC",Credit card
+2020-04-01,2,1,4,230.32,10.64,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-03,2,1,4,182.47,7.41,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-04,2,1,4,90.8,15.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-05,2,1,4,139.3,3.5,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-06,2,1,4,152.22,7.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-07,2,1,4,291.46,21.18,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-08,2,1,4,703.7,117.28,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-09,2,1,4,68.3,4.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-10,2,1,4,75.41,6.155,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-11,2,1,4,69.05,2.75,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-12,2,1,4,211.44,6.806666666666666,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-13,2,1,4,166.86,27.81,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-14,2,1,4,71.3,5.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-16,2,1,4,192.97,5.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-17,2,1,4,457.32,3.4375,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-18,2,1,4,499.12000000000006,10.7,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-19,2,1,4,482.3,15.593333333333334,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-20,2,1,4,121.1,3.5,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-21,2,1,4,93.72,15.62,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-22,2,1,4,46.8,2.0,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-23,2,1,4,116.3,19.38,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-24,2,1,4,382.26000000000005,7.69,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-26,2,1,4,224.34,8.955,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-27,2,1,4,139.56,6.23,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-28,2,1,4,230.2,13.075000000000001,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-29,2,1,4,667.8699999999999,20.076,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-30,2,1,4,505.78,17.836666666666666,Nassau or Westchester,VeriFone Inc,Credit card
+2020-04-19,1,3,4,135.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",No charge
+2020-04-01,1,2,4,102.6,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-02,1,2,4,40.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-09,1,2,4,13.8,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-12,1,2,4,64.8,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-13,1,2,4,3.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-14,1,2,4,103.6,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-16,1,2,4,59.42,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-17,1,2,4,27.900000000000002,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-19,1,2,4,74.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-22,1,2,4,15.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-23,1,2,4,74.02000000000001,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-27,1,2,4,102.12,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-29,1,2,4,5.3,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-30,1,2,4,149.22,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Cash
+2020-04-01,2,2,4,263.76,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-03,2,2,4,459.77000000000004,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-04,2,2,4,75.3,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-05,2,2,4,64.04,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-06,2,2,4,45.55,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-07,2,2,4,79.8,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-08,2,2,4,52.099999999999994,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-09,2,2,4,459.15,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-10,2,2,4,207.85000000000002,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-11,2,2,4,220.10000000000002,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-12,2,2,4,67.67,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-13,2,2,4,51.8,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-14,2,2,4,176.01999999999998,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-15,2,2,4,40.3,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-16,2,2,4,30.3,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-19,2,2,4,167.55,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-20,2,2,4,70.8,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-21,2,2,4,139.47,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-23,2,2,4,26.3,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-24,2,2,4,127.22,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-25,2,2,4,137.79,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-26,2,2,4,171.89999999999998,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-28,2,2,4,163.22,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-30,2,2,4,632.1500000000001,0.0,Nassau or Westchester,VeriFone Inc,Cash
+2020-04-30,1,4,4,3.8,0.0,Nassau or Westchester,"Creative Mobile Technologies, LLC",Dispute
