@@ -1,2 +1,2 @@
 # My projects
-The projects I made studying at DataQuest and Karpov Courses
+This is my main repository - everything I got in one place. Like a sandbox
